@@ -1,4 +1,4 @@
-local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/RedzLibV5/main/Source.Lua"))()
+local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/SamuelZHS/Herxb/main/HERDHUB.lua"))()
 local Window = redzlib:MakeWindow({
   Title = "HERDROOCK HUB | BLOX FRUIT",
   SubTitle = "by HERDROOCK",
